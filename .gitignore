@@ -1,0 +1,4 @@
+datasets/*
+!datasets/README.md
+!datasets/test_01.json
+!datasets/test.01.jsonl
